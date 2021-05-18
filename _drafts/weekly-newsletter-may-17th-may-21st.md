@@ -11,9 +11,9 @@ image: "/assets/images/_dsc0195-edit-1.JPG"
 
 Happy Tuesday everyone! Hopefully you all are excited for the long weekend coming up. I know I'm looking forward to enjoying the time outside. You all have been working so hard - I encourage you all to find some time to rest and reset as we kick off the summer.
 
-<p align="center">
+
 ![](/assets/images/lifeworks-logo.png)
-<p>
+
 ## We are now LifeWorks
 
 The rebrand has officially been announced and we no longer work for Morneau Shepell. I'm sure for some of you, it'll take a bit of an adjustment but these are exciting times we're in.
@@ -54,7 +54,7 @@ The notable differences are mostly tied to how colour is used and the style of i
 
 We'll also be starting to share font structures to help make the two systems feel further aligned.
 
-You can view the latest designs in [Figma](https://www.figma.com/proto/zEaxpEjfeMQvw6iXa7BjAm/Ally-V2?page-id=0%3A1&node-id=1%3A6447&scaling=min-zoom). 
+You can view the latest designs in [Figma](https://www.figma.com/proto/zEaxpEjfeMQvw6iXa7BjAm/Ally-V2?page-id=0%3A1&node-id=1%3A6447&scaling=min-zoom).
 
 ## Vaccines
 
