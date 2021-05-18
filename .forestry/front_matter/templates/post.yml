@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/weekly-newsletter-may-17th-may-21st.md
