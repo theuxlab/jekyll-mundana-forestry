@@ -4,7 +4,7 @@ categories:
 - newsletter
 title: Weekly Newsletter - May 17th - May 21st
 author: Andrew Kelly
-image: "/assets/images/_dsc0195-edit-1.JPG"
+image: "/assets/images/weekly-newsletter-header.jpg"
 
 ---
 # **Weekly Newsletter May 17 - May 21, 2021**
