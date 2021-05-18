@@ -83,17 +83,9 @@ May 25th, 2021
 
 ## Featured Article
 
-### Layout Love
+### [Layout Love]()
 
-### [**https://stuffandnonsense.co.uk/blog/take-the-guesswork-out-of-layout-by-using-ratios**](https://stuffandnonsense.co.uk/blog/take-the-guesswork-out-of-layout-by-using-ratios "https://stuffandnonsense.co.uk/blog/take-the-guesswork-out-of-layout-by-using-ratios")
-
-TAKE THE GUESSWORK OUT OF LAYOUT BY USING RATIOS
-
-## 
-
-## 
-
-## 
+[Take the guesswork out of layout by using ratios.](https://stuffandnonsense.co.uk/blog/take-the-guesswork-out-of-layout-by-using-ratios)
 
 ## Andrew's Thoughts
 
@@ -108,3 +100,6 @@ A product designers, we are in the position to define how Users, Clients and Com
 This is an opportunity for us to show the company and the world that we are a premium design organization. The rebrand has given us the tools we need to achieve this vision - and now it's up to use to show how best to use these tools.
 
 I can't wait to see what amazing work you all come up with it.
+
+Cheers,  
+Andrew
