@@ -7,13 +7,13 @@ author: Andrew Kelly
 image: "/assets/images/_dsc0195-edit-1.JPG"
 
 ---
-
 # **Weekly Newsletter May 17 - May 21, 2021**
 
 Happy Tuesday everyone! Hopefully you all are excited for the long weekend coming up. I know I'm looking forward to enjoying the time outside. You all have been working so hard - I encourage you all to find some time to rest and reset as we kick off the summer.
 
+<p align="center">
 ![](/assets/images/lifeworks-logo.png)
-
+<p>
 ## We are now LifeWorks
 
 The rebrand has officially been announced and we no longer work for Morneau Shepell. I'm sure for some of you, it'll take a bit of an adjustment but these are exciting times we're in.
@@ -90,7 +90,7 @@ May 25th, 2021
 
 ![](/assets/images/2021-05-11-6.png)
 
-### Layout Love
+### [Layout Love](https://stuffandnonsense.co.uk/blog/take-the-guesswork-out-of-layout-by-using-ratios)
 
 [Take the guesswork out of layout by using ratios.](https://stuffandnonsense.co.uk/blog/take-the-guesswork-out-of-layout-by-using-ratios)
 
