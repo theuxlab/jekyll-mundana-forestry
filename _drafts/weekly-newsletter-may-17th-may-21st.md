@@ -68,6 +68,8 @@ You can [see the full policy here](https://msoit.sharepoint.com/sites/Panorama/S
 
 ## Go Leafs Go!
 
+![](/assets/images/leafs-habs-leafs-clinch.jpeg)
+
 In what is arguably the most important item of news this week - the Toronto Maple Leafs start the playoffs on Thursday. They'll be facing the Montreal Canadiens for the first time since 1979.
 
 Needless to say - you can expect my emotional state to be a rollar coaster over the coming weeks. If you're a Habs fan - I apologize now as I fear we've become mortal enemies until the series is over.
@@ -77,6 +79,8 @@ In all seriousness though - The Leafs are going all the way to the Stanely Cup t
 ## 
 
 ## **Upcoming Vacations**
+
+![](/assets/images/photo-1527179528411-4219e0714bcc.jpeg)
 
 **Regina Hasmany**
 
