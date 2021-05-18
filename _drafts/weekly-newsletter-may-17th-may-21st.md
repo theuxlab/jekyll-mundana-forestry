@@ -7,7 +7,12 @@ author: Andrew Kelly
 image: "/assets/images/_dsc0195-edit-1.JPG"
 
 ---
+
+# **Weekly Newsletter May 17 - May 21, 2021**
+
 Happy Tuesday everyone! Hopefully you all are excited for the long weekend coming up. I know I'm looking forward to enjoying the time outside. You all have been working so hard - I encourage you all to find some time to rest and reset as we kick off the summer.
+
+![](/assets/images/lifeworks-logo.png)
 
 ## We are now LifeWorks
 
@@ -49,7 +54,7 @@ The notable differences are mostly tied to how colour is used and the style of i
 
 We'll also be starting to share font structures to help make the two systems feel further aligned.
 
-You can view the latest designs in Figma. [https://www.figma.com/proto/zEaxpEjfeMQvw6iXa7BjAm/Ally-V2?page-id=0%3A1&node-id=1%3A6447&scaling=min-zoom](https://www.figma.com/proto/zEaxpEjfeMQvw6iXa7BjAm/Ally-V2?page-id=0%3A1&node-id=1%3A6447&scaling=min-zoom "https://www.figma.com/proto/zEaxpEjfeMQvw6iXa7BjAm/Ally-V2?page-id=0%3A1&node-id=1%3A6447&scaling=min-zoom")
+You can view the latest designs in [Figma](https://www.figma.com/proto/zEaxpEjfeMQvw6iXa7BjAm/Ally-V2?page-id=0%3A1&node-id=1%3A6447&scaling=min-zoom). 
 
 ## Vaccines
 
@@ -57,7 +62,7 @@ As mentioned in teams, if you need to take time off to get your vaccine - that's
 
 Once booked - let me know if you need any support covering meetings or deliverables. We'll work with you to make sure that you don't need to miss your appointment.
 
-You can see the full policy here: [https://msoit.sharepoint.com/sites/Panorama/SitePages/Paid-time-off-for-employees-to-receive-COVID-19-vaccine.aspx?from=SendByEmail&e=QUvoN5oiT0CwlFvcFbAgYQ&at=9](https://msoit.sharepoint.com/sites/Panorama/SitePages/Paid-time-off-for-employees-to-receive-COVID-19-vaccine.aspx?from=SendByEmail&e=QUvoN5oiT0CwlFvcFbAgYQ&at=9 "https://msoit.sharepoint.com/sites/Panorama/SitePages/Paid-time-off-for-employees-to-receive-COVID-19-vaccine.aspx?from=SendByEmail&e=QUvoN5oiT0CwlFvcFbAgYQ&at=9")
+You can [see the full policy here](https://msoit.sharepoint.com/sites/Panorama/SitePages/Paid-time-off-for-employees-to-receive-COVID-19-vaccine.aspx?from=SendByEmail&e=QUvoN5oiT0CwlFvcFbAgYQ&at=9).
 
 ### 
 
@@ -83,7 +88,9 @@ May 25th, 2021
 
 ## Featured Article
 
-### [Layout Love]()
+![](/assets/images/2021-05-11-6.png)
+
+### Layout Love
 
 [Take the guesswork out of layout by using ratios.](https://stuffandnonsense.co.uk/blog/take-the-guesswork-out-of-layout-by-using-ratios)
 
