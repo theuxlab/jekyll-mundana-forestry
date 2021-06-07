@@ -46,7 +46,7 @@ I still expect there to be some additional news to come from the upcoming meetin
 
 ### 
 
-## Return of the design contents
+## Return of the design contest
 
 Last year over the summer we did some design contests as a fun way to challenge our skills and grow as designers. Ultimately it only lasted a couple weeks with time, skillsets and expectations being raised as concerns. We will be bringing it back for another year with plans to address these concerns and some clarity around the the rules to help solve the concerns from last year.
 
