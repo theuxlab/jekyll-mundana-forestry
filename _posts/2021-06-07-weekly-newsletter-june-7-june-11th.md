@@ -11,7 +11,7 @@ image: "/assets/images/120246668_2745819492406518_2091150568427273073_n.jpg"
 
 Happy Monday Everyone! I hope you all enjoyed the beautiful, warm weekend. I know my family I certainly did. We spent the majority of time outside and even got into the water yesterday. I was surprised at how warm the water already was - it's a good sign as it means it should be a fun summer.
 
-![](/assets/images/meeting-zoom.jpg)
+![](/assets/images/glint-preview.png)
 
 ##  Updates from monthly tech leadership call 
 
