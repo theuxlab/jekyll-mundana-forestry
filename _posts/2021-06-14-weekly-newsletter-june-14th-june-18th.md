@@ -4,7 +4,7 @@ categories:
 - newsletter
 title: Weekly Newsletter - June 14th - June 18th
 author: Andrew Kelly
-image: "/assets/images/_DSC0283-Edit-1.jpg"
+image: "/assets/images/newsletter-june14-18.jpg"
 
 ---
 # **Weekly Newsletter June 7 - June 11, 2021**
@@ -15,7 +15,7 @@ Thank you everyone for reaching out after Friday's unexpected turn of events. Be
 
 In the end - we ended up having a nice weekend out in the sun. Hopefully you all found some time to enjoy the warm weather as well.
 
-![](/assets/images/meeting-zoom.jpg)
+![](/assets/images/glint-preview.png)
 
 ##  Glint Survey Reminder 
 
