@@ -37,7 +37,7 @@ This is why we call our both our weekly design reviews and the feedback channel 
 
 I believe that we have the potential to be the next great design organization in Canada, similar to Shopify or Teehan+Lax, where we push progress forward and inspire other designers and organizations to be better. You all are the foundation for this and I think it's damn strong but if we want to reach this goal - we need to get comfortable with being uncomfortable and that starts with being willing to take critisim and suggestions for our work.
 
-You can find out design debt strategy on Figma if you want to dive into the details of what has been outlined and presented to our business groups.
+You can [find out design debt strategy on Figma](https://www.figma.com/file/BKTz9kqxSvy1hTlfJF4An3/Design-System-Strategy?node-id=67%3A1&viewport=-19318%2C406%2C0.7740955948829651) if you want to dive into the details of what has been outlined and presented to our business groups.
 
 ## Featured Work 
 
