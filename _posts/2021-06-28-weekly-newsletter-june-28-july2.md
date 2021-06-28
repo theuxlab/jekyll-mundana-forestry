@@ -2,7 +2,7 @@
 layout: post
 categories:
 - newsletter
-title: Weekly Newsletter - June 28th - July 1st
+title: Weekly Newsletter - June 28th - July 2nd
 author: Andrew Kelly
 image: "/assets/images/june28-july2.jpg"
 
