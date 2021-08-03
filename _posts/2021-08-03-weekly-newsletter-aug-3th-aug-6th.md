@@ -13,7 +13,7 @@ Happy Tuesday All!
 
 I hope you had a great long weekend and you're all feeling refreshed after a busy stretch. The newsletters are back after a little delay and I'll expand upon this below.
 
-![](/assets/images/amar-headshot.png)
+![](/assets/images/satya-picture.jpeg)
 
 ##  Welcome Satya 
 
