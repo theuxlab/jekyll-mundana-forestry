@@ -2,98 +2,97 @@
 layout: post
 categories:
 - newsletter
-title: Weekly Newsletter - Sept 13th - Sept 17th, 2021
+title: Weekly Newsletter - Aug 23rd - Aug 27th
 author: Andrew Kelly
-image: "/assets/images/sept13-sept17.jpg"
+image: "/assets/images/aug23-aug27.jpg"
 
 ---
-# **Weekly Newsletter Sept 13th - Sept 17th, 2021**
+# **Weekly Newsletter Aug 23rd - Aug 27th, 2021**
 
-Happy Monday Everyone. It's hard to believe we're already in the middle of September. The year is flying by and summer appears behind us now. I would say we should expect things to get busy over the coming weeks as we move into Q4.
+Happy Wednesday all! Sorry for the delayed reply - I wrote this Monday but didn't get a chance to publish until Wednesday so there may be a few references to Monday as Today. I hope you had a great weekend and wanted to take a moment to welcome Nick back after the birth of Hannah. I just hope Nick’s drinking enough coffee to stay awake while at work. 😁
 
-![](/assets/images/josie-goodbye.gif)
+![](/assets/images/timesheets-reminder.jpg)
 
-##  Goodbye Josie 
+##  Timesheets are due this week 
 
-Unfortunately we kick this week off with some unfortunately news - Josie will be leaving LifeWorks on after Wednesday to start an exciting next step in her career. In the last three years with us, Josie has worked on stuff for Harmony, MyLife, Benefit Enrolment, MyPlans Connect, Financial Wellbeing and Navigate. 
+I wanted to remind everyone to find time this week to either submit your time via 1MSI or to Mel this week. It’s important we get our time in before the end of the month as it can end up messing up the monthly reports. This can ultimately impact what we’re able to do with the team as anytime that is not recorded comes out of our budget.
 
-Josie, along with Rabeea, was one of the first designers who joined the team without the expectation of also coding. She helped paved the way for where we are now and it’s been an absolute pleasure watching her grow as both a designer and a person.
+I don’t normally make this a big priority as you folks generally do a good job but we didn’t do a great job (and I include myself in that) at making sure our hours were submitted on time. I ended up needing to reach out to a few of you after getting an email from finance flagging everyone who’s hours were missing.
 
-While Josie’s last day will be Wednesday - we’ll have a going away party for her on Tuesday. I’ll be sending the invite out shortly and just like with the others we’ll have some games and laughs.
-
-Please feel free to reach out to Josie and wish her well prior to the party.
-
-## Welcome Kevin 
-
-Keeping on the trend of people - I do have some exciting news to share. We’ve extended a contract offer to Kevin Kelly (no relation) who’s a talented UI Developer. Kevin will be coming in to assist with the Abiliti rebrand work that’s about to start.
-
-We will likely be leaning on Kevin for some support with Consistency as well other projects, such as the Unified Login product which is set to kick off soon.
-
-We’re still nailing down a start date but I’ll be sure to let everyone know once it’s been finalized. It’s currently depending on when all the paperwork is finished - although I’m hopeful to have an answer before the end of the day.
+This will likely become more of a priority over the coming months and I encourage you all to capitalize your time as much as possible. This is because…
 
 
-## General IT Updates
+## Budgets, Hours and Projects will be under more scrutiny 
 
-There’s not too much to share with regards to the current state of the IT however I wanted to just give folks the latest updates as we progress through September.
+We had our latest Senior Leadership Call this morning and there was a clear theme that emerged which I would say you should all come to expect over the coming months. Although LifeWorks is doing a great job at generating revenue - we’re not doing such a great job on EBITDA. For those who aren’t sure what I am talking about:
 
-The first draft of the the 2022 budget is due in at the end of the month. This means we’ll likely start getting some clarity over what projects we’ll be focusing on next year, if there will be any meaningful movement in the IT Org structure and more over the coming days and weeks.
+Revenue - How much money the company makes before operating expenses such as employee salaries, software, hardware and other factors.
 
-As mentioned - there’s nothing to report right now but that could change as the week goes on. I’ll be sure to keep everyone up to date as details become available either via the newsletter or (depending on the news) by calling a meeting.
+EBITDA - How much money the company makes once you factor in all of the operating expenses.
 
-It appears as though there’s already 41 Capital Projects being planned for 2022 but I expect that number to either increase or for some of those projects to be broken down into smaller initiatives under a parent project.
+There are two areas that we are affected by via EBITDA not being as strong. The first impacts the different lines of business as they need to get their numbers turned around and the other is the IT budget who also has to turn their numbers around. 
 
-## Tracking Performance
+This is notable because there’s going to be a push to review projects to figure out how to keep their costs down from LOBs and Project Owners as well as more scrutiny around hirings, promotions and team budgets. 
 
-I have started to build out some dashboards to get a better sense of our workload, skillsets, timelines and and quality.
+Our group is in a good position from a budget perspective but I think it’s a good bet to expect to feel impact as the other LOBs and Departments try to break even by the end of the year.
 
-There will be some additional updates to come with other sources of data but to start we will be looking at 1MSI and Figma analytics to get a sense of how the team is performing.
 
-I am hoping to eventually leverage ADO down the road as well.
+## HR Webinars for the rest of the year
 
-The Figma Analytics are already starting to show some interesting stories in terms of when we’re busiest and when we’re slower. For the Figma data, we’re looking at using the Design Systems as a way of measuring quality.
+I wanted to share quickly the list of webinars scheduled from the remainder of 2021. There’s some good topics that will be focused on over the coming months and I know HR spends a lot of time and effort getting guests and putting these sessions together.
 
-We will be looking at CDS and Harmony Design Systems to measure component utilization, how frequent components are getting detached, how many projects are using the systems and more.
+If you see something that catches your eye - I recommend attending as I have no doubts you’ll appreciate the outcome.
 
-Hopefully over time - we’ll be able to prove the value we provide. I expect ADO being a big help as we can measure the impact of projects working with us vs working without us.
+## Starting the search for new contractors
 
-If you have questions, ideas, want to see what’s been or more - just let me know. I’d like to share these updates with the team moving forward either during our monthly team call or in one of the weekly newsletters.
+We will be looking to bring on a couple of contractors to support us over the next couple of months. We are needing to add another UI Developer to support Ron in HPS as they look to implement the new rebrand. This will likely be a temporary position as we continue to evaluate the need for multiple UI Developers with our current project load and dynamic with the engineering department.
+
+The second role will be a copywriter for Navigate and the Unified Login tool. As it stands this role will be brought on as a temporary position but the hope will be that we can generate enough momentum until the end of the year so that we can look to add that skill set permanently to our team.
+
+If you know anyone for either position that you think could be a good fit - feel free to share their resume or portfolio for us to take a look at.
+
+
+## Design Contest Update
+
+Earlier I mentioned that we wanted to run another design contest. This is still the plan and more details will be announced later this week.
+
 
 ## **Upcoming Vacations**
 
 ![](/assets/images/photo-1527179528411-4219e0714bcc.jpeg)
 
-**Nick Burd**
-Tuesday Sept. 21th - Thursday Sept 24th
+**Andrew Kelly**
+Tuesday Aug 17th
+
+**Josie Artale**
+Tuesday, August 24th
+
+**Ksenia Vendrova**
+Monday, August 23rd - Friday, September 3rd
+
+**Regina Hasmany**
+Wednesday, September 1st - Friday, September 3rd
 
 \* Planning on taking a vacation? Please let me know. \*
 
 
 ## Featured Article
 
-![](/assets/images/6123b54825c1819cc82155d2_20210820SamePage_EllenButters.png)(https://www.abstract.com/blog/designers-product-managers-better-together?utm_source=twitter&utm_medium=social&utm_campaign=fy21_q2_organic_social_posts)
+![](/assets/images/40-vectary-opt.png)(https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/)
 
-### [Designers and product managers are better together](https://www.abstract.com/blog/designers-product-managers-better-together?utm_source=twitter&utm_medium=social&utm_campaign=fy21_q2_organic_social_posts)
+### [Useful Figma Plugins And Tools](https://www.smashingmagazine.com/2021/08/figma-tools-plugins-resources/)
 
-Digital Service Expert Ellen Butters shares how partnering with PMs can help designers more effectively influence the product roadmap
+Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation.
 
 ## Andrew's Thoughts
 
-Lately I’ve been reading a book called “How to Think More Effectively” and this weekend I came across a chapter about a certain form of thinking that really resonated with me and I want to encourage you all to do more of.
+There’s a lot going on these days from an IT business perspective that could impact how we work until the end of the year and into 2022. I know that I mentioned last week Kaytek spoke about some potential org restructuring coming to IT and above I mentioned that the budgets and costs will be under closer review until the end of the year.
 
-What is this form of thinking? It was called “Mad Thinking” and the premise is we chase away any thoughts or ideas that aren’t rooted in reality. We often dismiss ideas or concepts because we don’t think it can be done.
+I wanted to end by stressing that none of this is anything we need to be worried about. Our group is in a great position from a budget standpoint and IT is focused continuing to make LifeWorks a product-centric organization. This strategy means focusing on the Customer/User experience and I expect that our role and influence will continue to grow.
 
-For example - you may get an interesting idea and then your next thought becomes “Oh - that would be too expensive. Business would never agree to that” and you dismiss the idea before getting a chance to dive deeper into it.
+While I don’t know what’s in store until the end of 2021 - what I have heard is exciting. Executives like Kaytek, Norah and DJ recognize how a strong product experience is key to success and we’ll be expected to play a key role in becoming a product-centric, user-first organization.
 
-These thoughts are called “Mad Thoughts” because in their rawest form - reality wouldn’t support it. There are limitations in areas like technology, money, opportunity or general support and so we move on from the idea.
+With that said - if any of you have any questions - please don’t hesitate to reach out and we can discuss further in more detail.
 
-However - it’s these ideas or thoughts which serve as the bedrock of another idea or concept that’s is rooted in reality. When we give ourselves permission to unshackle ourselves from the limitations of the real world - we can find ourselves going down rabbit holes that ultimately lead to something meaningful.
-
-An example might be thinking about how to use virtual reality to serve up a different benefit enrolment experience - something no one has seen before. In the end - the solution is impractical because not enough people have VR Headsets that they can use for this new experience and the cost to create such an experience is beyond the available budget.
-
-However while mapping out the idea of how you might do VR for Benefit Enrolment, your revised flow and how you grouped available options is feasible and a far better experience than anything we had before.
-
-The only reason you had revised the flow and the different groupings was to support the VR experience - but in the end the solution made the product better today. This is the beauty of “Mad Thinking” by giving yourself permission to follow these crazy ideas - you can stumble onto something great that works right now.
-
-So I encourage all of you to take time and allow yourself to think about what the possibilities when you take the time to think differently.
 Cheers,  
 Andrew
