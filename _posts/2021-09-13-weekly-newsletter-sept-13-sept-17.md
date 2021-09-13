@@ -70,7 +70,7 @@ Tuesday Sept. 21th - Thursday Sept 24th
 
 ## Featured Article
 
-![](/assets/images/6123b54825c1819cc82155d2_20210820SamePage_EllenButters.png)(https://www.abstract.com/blog/designers-product-managers-better-together?utm_source=twitter&utm_medium=social&utm_campaign=fy21_q2_organic_social_posts)
+![](/assets/images/6123b54825c1819cc82155d2_20210820SamePage_EllenButters.png)
 
 ### [Designers and product managers are better together](https://www.abstract.com/blog/designers-product-managers-better-together?utm_source=twitter&utm_medium=social&utm_campaign=fy21_q2_organic_social_posts)
 
