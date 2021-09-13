@@ -63,7 +63,10 @@ If you have questions, ideas, want to see what’s been or more - just let me kn
 ![](/assets/images/photo-1527179528411-4219e0714bcc.jpeg)
 
 **Nick Burd**
-Tuesday Sept. 21th - Thursday Sept 24th
+Tuesday Sept. 21st - Thursday Sept 23rd
+
+**Goli Bahri**
+Friday Sept. 24th, 2021
 
 \* Planning on taking a vacation? Please let me know. \*
 
