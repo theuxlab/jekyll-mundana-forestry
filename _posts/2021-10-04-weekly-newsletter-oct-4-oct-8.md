@@ -4,7 +4,7 @@ categories:
 - newsletter
 title: Weekly Newsletter - Oct. 4th - Oct. 8th, 2021
 author: Andrew Kelly
-image: "/assets/images/newsletter-oct4-oct8.jpg"
+image: "/assets/images/oct4-oct8.jpg"
 
 ---
 # **Weekly Newsletter Oct 4th - Oct 8th, 2021**
@@ -67,7 +67,7 @@ Tuesday Oct. 12th, 2021 - Friday Oct. 22nd, 2021
 
 ## Featured Article
 
-![](/assets/images/module-monday.jpeg)(https://twitter.com/SalesforceUX/status/1445109000446545925)
+![](/assets/images/module-monday.jpeg)
 ### [🎉 Modules @ your fingertips!](https://twitter.com/SalesforceUX/status/1445109000446545925)
 
 An interesting tweet I saved from Salesforce Design that speaks to Values Based Design, Accountability in Design and Design as a Social Practice. Full disclosure - I haven't had a chance to go through them in great detail yet but what I've seen so far peaked my interest enough that I wanted to share it with you folks.  
