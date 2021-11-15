@@ -45,11 +45,13 @@ Vacation Time is confusing as hell. Instead of showing time off using days - Wor
 What folks need to know is that the formula to convert hours to days is fairly straight forward. There’s two formula’s you really need to know about:
 
 The first is to calculate how much time off you have for the year:  
+
 **(Accrued Year To Date + (9.375 * Months Remaining)) / 7.5**
 
 So what the above Formula is telling you to do is look at how many hours you’ve earned over the course of the year (Accrued Year to Date) and then add the number of hours yet to be accrued over the remainder of the year. Each month you would earn 9.375 hours in vacation time which is why we use that number and times it by the months remaining. This would give you the total number of hours you get for the year - and then you divide it by 7.5 to convert the hours to days as WorkDay represents a day as 7.5 hours.
 
 To figure out how many days you have left you can then use this formula:  
+
 **Beginning Period Balance / 7.5**
 
 This looks at how many hours you have remaining at the start of a month and then we divide it by 7.5 to convert the hours to days. One thing worth noting is if you need to take time off before you’ve accrued the hours - you can but think of it like a credit card. Instead of earning additional hours - you switch over to paying the hours back. If you were to leave the company before you’ve paid those hours back - depending on what’s remaining there may be an expectation to pay back those hours.
@@ -67,10 +69,12 @@ If you’ve encountered a challenge yourself - please don’t hesitate to add. W
 ![](/assets/images/photo-1527179528411-4219e0714bcc.jpeg)
 If you don't see your name listed - please be sure to add the time to WorkDay as I'll be pulling this time off from there moving forward.
 
-**Tiphaine Rolland**  
+**Tiphaine Rolland**
+
 Monday Dec. 13th, 2021 - Monday Jan. 3rd, 2022
 
-**Andrew Kelly**  
+**Andrew Kelly**
+
 Monday Dec. 20th, 2021 - Monday Jan. 3rd, 2022
 
 
