@@ -7,7 +7,7 @@ author: Andrew Kelly
 image: "/assets/images/feb7-feb11.jpg"
 
 ---
-# **Weekly Newsletter Jan 4th - Jan 7th, 2022**
+# **Weekly Newsletter Feb 7th - Feb 11th, 2022**
 
 Happy Monday Everyone! I hope everyone enjoyed their weekend. It’s starting to get busy and new initiatives are starting to become clearer. With that said - here’s a few updates for folks. 
 
